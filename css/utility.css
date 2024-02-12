@@ -1,0 +1,41 @@
+.border {
+    border: 2px solid red;
+}
+
+.flex {
+    display: flex;
+}
+
+.border-radius {
+    border-radius: 7px;
+}
+
+.pd-lr {
+    padding: 10px;
+}
+
+.filter_1 {
+    filter: invert(0.7);
+}
+
+.filter {
+    filter: invert(1);
+}
+
+.pd-left {
+    padding: 20px;
+}
+
+.svg-size {
+    width: 80px;
+}
+
+.bg-color {
+    background-color: #121212;
+}
+
+.font-1 {
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+}
